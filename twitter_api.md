@@ -110,8 +110,14 @@ https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/tweet-obje
 beginner friendly
 https://www.rubyguides.com/2016/04/twitter-api-from-ruby-tutorial/
 
+débutant, avec un grand exemple
+http://nizhu.github.io/ruby-intro-site/blog/2013/08/01/accessing-the-twitter-api/
 
-#histoire de call_back
+
+
+
+
+#histoire de call_back (lvl avancé)
 https://developer.twitter.com/en/docs/basics/apps/guides/callback-urls.html
 explication du callback_url
 https://www.alertra.com/blog/2011/callback-urls-explained
