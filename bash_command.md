@@ -1,7 +1,7 @@
 man : Affiche ce à quoi correspond une commande précise (tapez "man", puis le nom de la commande)
-cd (Change Directory) : Vous permet de vous déplacer d'un répertoire 
+		cd (Change Directory) : Vous permet de vous déplacer d'un répertoire 
 pwd (Print Working Directory) : Vous avviche l'emplacement du répertoire dans lequel vous vous trouvez.
-mkdir : Permet de créer un nouveau répertoire.
+		mkdir : Permet de créer un nouveau répertoire.
 rm : Supprimez de manière définitive un fichier (tapez "rm" puis le nom de votre fichier après un espace).
 cp : Pour copier un fichier (tapez cp/ puis le chemin qui mène à votre fichier).
 mv : Pour déplacer un fichier entre vos répertoires.
